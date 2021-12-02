@@ -3,7 +3,7 @@
 
 2• já dentro da pasta execute <code>npm install</code>
 
-3• <code>npm run dev</code>
+3• <code>npm run dev</code> para rodar a aplicação em sua máquina.
 
 ## Acessar a aplicação
 <a href="https://breaking-bad-pied.vercel.app/">Link do Deploy</a>
