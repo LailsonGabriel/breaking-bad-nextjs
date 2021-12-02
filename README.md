@@ -8,7 +8,7 @@
 ## Acessar a aplicação
 <a href="https://breaking-bad-pied.vercel.app/">Link do Deploy</a>
 
-A aplicação consiste em mostrar todos os personagens na séries e ao clicar em <strong>Detalhes</strong> no Card do personagem, faz a filtragem exibindo de quais episódios o personagem participou
+A aplicação consiste em mostrar todos os personagens da série <strong>Breaking Bad</strong> e ao clicar em <strong>Detalhes</strong> no Card do personagem, faz a filtragem exibindo de quais episódios o personagem participou
 
 ## Demonstração
 ![GIF](https://github.com/LailsonGabriel/breaking-bad-nextjs/blob/main/ezgif.com-gif-maker%20(1).gif)
