@@ -1,4 +1,7 @@
+## Como rodar essa aplicação em sua máquina??
+<code>teste</code>
 
+## Demonstração
 ![GIF](https://github.com/LailsonGabriel/breaking-bad-nextjs/blob/main/ezgif.com-gif-maker%20(2).gif)
 
 ## Acessar a aplicação
