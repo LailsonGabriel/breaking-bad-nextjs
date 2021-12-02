@@ -1,5 +1,7 @@
 ## Como rodar essa aplicação em sua máquina??
-<code>teste</code>
+1• clone esse repositório <code>git clone git@github.com:LailsonGabriel/breaking-bad-nextjs.git</code>
+2• já dentro da pasta execute <code>npm install</code>
+3• <code>npm run dev</code>
 
 ## Demonstração
 ![GIF](https://github.com/LailsonGabriel/breaking-bad-nextjs/blob/main/ezgif.com-gif-maker%20(2).gif)
