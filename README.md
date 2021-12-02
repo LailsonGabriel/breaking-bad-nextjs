@@ -7,6 +7,7 @@
 
 ## Acessar a aplicação
 <a href="https://breaking-bad-pied.vercel.app/">Link do Deploy</a>
+
 A aplicação consiste em mostrar todos os personagens na séries e ao clicar em <strong>Detalhes</strong> no Card do personagem, faz a filtragem exibindo de quais episódios o personagem participou
 
 ## Demonstração
