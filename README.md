@@ -9,7 +9,7 @@
 <a href="https://breaking-bad-pied.vercel.app/">Link do Deploy</a>
 
 ## Demonstração
-![GIF](https://github.com/LailsonGabriel/breaking-bad-nextjs/blob/main/ezgif.com-gif-maker%20(2).gif)
+![GIF](https://github.com/LailsonGabriel/breaking-bad-nextjs/blob/main/ezgif.com-gif-maker%20(1).gif)
 
 ## Meu aprendizado com NextJS e Observações
 
