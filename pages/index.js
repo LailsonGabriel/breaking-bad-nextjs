@@ -1,10 +1,17 @@
-import styled from 'styled-components'
+import ListCards from '../components/ListCards';
+import requestAPI from '../services/fetchAPI';
 
-const Title = styled.h1`
-  font-size: 50px;
-  color: ${({ theme }) => theme.colors.primary};
-`
+export async function getStaticProps(_context) {
+  const response = await requestAPI('https://breakingbadapi.com/api/characters');
+  return {
+    props: { characters: response },  
+  };
+}
 
-export default function Home() {
-  return <Title>My page</Title>
+export default function Home({ characters }) {
+  return (
+    <>
+      <ListCards characters={ characters } />
+    </>
+  );
 }
