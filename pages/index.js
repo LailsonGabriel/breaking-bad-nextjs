@@ -2,9 +2,10 @@ import ListCards from '../components/ListCards';
 import requestAPI from '../services/fetchAPI';
 
 export async function getStaticProps(_context) {
-  const response = await requestAPI('https://breakingbadapi.com/api/characters');
+  const response = await requestAPI('http://localhost:3000/api/characters');
+
   return {
-    props: { characters: response },  
+    props: { characters: response.list },  
   };
 }
 

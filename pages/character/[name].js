@@ -6,8 +6,8 @@ export async function getServerSideProps(context) {
   const {name} = context.params;
   const {nickname} = context.query;
   const lastName = name.split(' ')[1];
-  const data = await requestAPI('https://breakingbadapi.com/api/episodes');
-  const filterCharacter = data
+  const data = await requestAPI('http://localhost:3000/api/episodes');
+  const filterCharacter = data.episodes
     .filter(({characters}) => (characters.includes(name) || characters
       .includes(`${nickname} ${lastName}`) || characters.includes(nickname)));
   return {
